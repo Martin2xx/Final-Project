@@ -1,5 +1,5 @@
-
 import { Sequelize } from 'sequelize';
+
 
 const sequelize = new Sequelize('final_project_db', 'root', '2155631Mr!', {
   host: 'localhost',
